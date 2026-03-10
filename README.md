@@ -2,10 +2,10 @@ Artificial Intelligence Lab
 
 Name:Prajwal Bagde
 
-Subject	Artificial Intelligence
+Subject:Artificial Intelligence
 
-College	SB Jain Institute of Technology, Management & Research, Nagpur
+College:SB Jain Institute of Technology, Management & Research, Nagpur
 
-Semester / Year	VI Semester / 3rd Year (Sec-B)
+Semester / Year:	VI Semester / 3rd Year (Sec-B)
 
-USN No.	CS23144
+USN No:	CS23144
