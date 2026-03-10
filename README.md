@@ -1,4 +1,4 @@
- Artificial Intelligence Lab
+Artificial Intelligence Lab
 Name:Prajwal Bagde
 Subject	Artificial Intelligence
 College	SB Jain Institute of Technology, Management & Research, Nagpur
